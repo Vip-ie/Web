@@ -1,0 +1,7 @@
+site_name: MkLorum
+nav:
+  - PYTHON基础: index.md
+  - PYTHON中级: about.md
+  - PYTHON并发: bingfa.md
+
+theme: readthedocs
